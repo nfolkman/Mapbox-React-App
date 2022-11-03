@@ -1,15 +1,20 @@
 <h1>Geospatial Data Map Application w/ Mapbox & React</h1>
 
+![Screenshot (230)](https://user-images.githubusercontent.com/98185555/199678372-2386b984-649c-435d-b8df-298859e5f502.png)
 
 
 
-<br>
-
-<br>
 
 <br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
+
+<h4>Tools Used:</h4>
+HTML | CSS | JavaScript | React.js | Mapbox GL JS
+
+<br>
+
+
 
 ## Available Scripts
 
